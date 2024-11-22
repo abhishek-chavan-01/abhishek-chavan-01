@@ -38,10 +38,6 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
   <img src="https://img.shields.io/badge/frappe-%230073B1.svg?style=for-the-badge&logo=frappe&logoColor=white" />
 </p>
 
-# 🚀 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhichavan&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical" alt="Abhishek's GitHub Stats" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
