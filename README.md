@@ -16,7 +16,7 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
 ### 📫 Connect with Me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/abhishek-chavan-83a6aa28a" target="blank">
+  <a href="https://www.linkedin.com/in/abhishek-chavan-83a6aa28a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="https://github.com/abhichavan" target="blank">
