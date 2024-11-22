@@ -16,13 +16,10 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
 ### 📫 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/abhichavan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+    <img src="www.linkedin.com/in/abhishek-chavan-83a6aa28a" alt="LinkedIn" height="30" />
   </a>
   <a href="https://github.com/abhichavan" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
-  </a>
-  <a href="https://twitter.com/iamabhichavan" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
+    <img src="https://github.com/abhishek-chavan-01" alt="GitHub" height="30" />
   </a>
 </p>
 
@@ -30,9 +27,7 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/frappe-%230073B1.svg?style=for-the-badge&logo=frappe&logoColor=white" />
@@ -43,8 +38,10 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📝 My Projects:
+### 📝 My Projects:
 - [**Library Management System**](#): A system for managing library books, users, and transactions.
-- [**Online Doctor Appointment System**](#): A system that allows users to book doctor appointments online.
+- [**Online Doctor Appointment System**](https://github.com/abhishek-chavan-01/Doctor-Appointment-App): A system that allows users to book doctor appointments online.
+
 
 ---
 
