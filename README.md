@@ -19,7 +19,7 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
   <a href="https://www.linkedin.com/in/abhishek-chavan-83a6aa28a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://github.com/abhichavan" target="blank">
+  <a href="https://github.com/abhishek-chavan-01/abhishek-chavan-01/blob/main/README.md" target="blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
 </p>
