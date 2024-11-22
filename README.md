@@ -15,11 +15,11 @@ Hello! I'm Abhishek Chavan, a passionate software developer from Mumbai, India. 
 
 ### 📫 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/abhichavan" target="blank">
-    <img src="www.linkedin.com/in/abhishek-chavan-83a6aa28a" alt="LinkedIn" height="30" />
+  <a href="www.linkedin.com/in/abhishek-chavan-83a6aa28a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="https://github.com/abhichavan" target="blank">
-    <img src="https://github.com/abhishek-chavan-01" alt="GitHub" height="30" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
 </p>
 
